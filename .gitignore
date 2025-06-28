@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+*.log
+.env
+
+# Vite / build
+dist/
+.cache/
+
+# IDE
+.idea/
+*.iml
